@@ -1,10 +1,10 @@
-# React-Mark-Pro
+# Mardown Flow
 
-The React-Mark-Pro is a web application that allows you to write and preview Markdown content in real-time built using React.js. It uses the `react-markdown` library to convert Markdown syntax into HTML for rendering.
+The Markdown FLow is a web application that allows you to write and preview Markdown content in real-time built using React.js. It uses the `react-markdown` library to convert Markdown syntax into HTML for rendering.
 
 ## 📸Preview
 
-![React-Mark-Pro Website Preview](src/preview.png)
+![Markdown Flow Website Preview](src/preview.png)
 
 ## ✨Features
 
@@ -14,7 +14,7 @@ The React-Mark-Pro is a web application that allows you to write and preview Mar
 
 ## 🤖Technologies Used
 
-The React-Mark-Pro is built using the following technologies:
+The Markdown FLow is built using the following technologies:
 
 - React.js: A JavaScript library for building user interfaces.
   Used React features likes states, contexts etc.
@@ -29,13 +29,13 @@ The React-Mark-Pro is built using the following technologies:
 
 ## 💻Getting Started
 
-To run the React-Mark-Pro locally, follow these steps:
+To run the Markdown FLow locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/its-kumar-yash/react-markdown-editor-app.git`
 2. Navigate to the project directory: `cd react-markdown-editor`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
-5. Open your web browser and visit `http://localhost:3000` to access the React-Mark-Pro.
+5. Open your web browser and visit `http://localhost:3000` to access the Markdown FLow.
 
 ## 📑Markdown Cheatsheet
 
