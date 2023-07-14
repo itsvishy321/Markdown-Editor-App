@@ -31,7 +31,7 @@ The Markdown FLow is built using the following technologies:
 
 To run the Markdown FLow locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/its-kumar-yash/react-markdown-editor-app.git`
+1. Clone the repository: `git clone https://github.com/itsvishy321/Markdown-Editor-App`
 2. Navigate to the project directory: `cd react-markdown-editor`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
