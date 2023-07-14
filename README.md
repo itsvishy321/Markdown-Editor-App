@@ -4,7 +4,7 @@ The Markdown FLow is a web application that allows you to write and preview Mark
 
 ## 📸Preview
 
-![Markdown Flow Website Preview](src/preview.png)
+![Markdown Flow Website Preview](src/look.png)
 
 ## ✨Features
 
